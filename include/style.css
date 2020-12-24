@@ -1,0 +1,19 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+   padding: 5px;
+}
+
+.col1 {
+    table-layout: auto;
+}
+
+.col2 {
+    width: 200px;
+}
+
